@@ -101,7 +101,7 @@ pip install pandas numpy matplotlib seaborn
 
 # Project Structure
 
-├── Dataset/
-├── Notebook/
+├── README.md/
 ├── Summary/
-├── README.md
+├── Dataset/
+├── Notebook 
